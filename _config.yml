@@ -236,14 +236,14 @@ gitment:
     owner: lilaodu
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: eee962777d6e1952726c
+        client_secret: 21528462449f96a483478583c07e22094ac519be
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lilaodu
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: eee962777d6e1952726c
+    clientSecret: 21528462449f96a483478583c07e22094ac519be
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
